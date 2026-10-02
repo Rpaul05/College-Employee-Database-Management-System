@@ -1,0 +1,6 @@
+{
+  "name": "CampusHR - College Employee Management System",
+  "description": "Modern enterprise role-based College Employee Management System with Admin and Employee dashboards, attendance, leave management, payroll, and documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
